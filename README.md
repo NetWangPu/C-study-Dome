@@ -1,0 +1,2 @@
+# Simple_computer_dome
+一个刚开始学习c语言时写的简单的计算机
